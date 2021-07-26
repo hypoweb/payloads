@@ -46,6 +46,8 @@ http://23.224.189.140/ls2
 http://23.224.189.140/lssyn
 http://23.224.189.140/lx261
 http://45.9.148.37/E5DB0E07C3D7BE80V201007/init.s
+https://de.gsearch.com.de/api/sysupdate
+http://45.9.148.37/E5DB0E07C3D7BE80V201007/sysupdate
 http://176.123.9.117:35351/ttt.sh
 http://198.98.56.65/krax
 http://107.174.35.243/bins/mips.cloudbot

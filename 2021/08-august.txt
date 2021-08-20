@@ -52,6 +52,7 @@ http://45.133.9.32/i686
 http://45.133.9.32/i586
 http://172.245.210.142/messiahmessiahbins.sh
 http://helpdeskserver.epelcdn.com/dd210131/init.sh
+http://185.181.10.234/E5DB0E07C3D7BE80V520/init.sh 
 http://176.123.7.127/id210131/phpupdate
 http://h.epelcdn.com/dd210131/phpupdate
 http://185.150.117.103/w.sh
@@ -78,6 +79,16 @@ http://45.61.188.184/fbot.x86
 http://45.61.188.184/fbot.x86_64
 http://178.33.64.107/arm7
 http://212.192.241.87/lolol.sh
+http://212.192.241.87/bins/dark.x86
+http://212.192.241.87/bins/dark.mips
+http://212.192.241.87/bins/dark.mpsl
+http://212.192.241.87/bins/dark.arm5
+http://212.192.241.87/bins/dark.arm6
+http://212.192.241.87/bins/dark.arm7
+http://212.192.241.87/bins/dark.ppc
+http://212.192.241.87/bins/dark.m68k
+http://212.192.241.87/bins/dark.sh4
+http://212.192.241.87/bins/dark.86_64
 http://168.138.141.224/kebab.sh
 http://199.19.225.134/bins/mips
 http://199.19.225.134/bins/mipsel

@@ -178,7 +178,6 @@ http://45.61.188.184/.bu/fbot.arm7
 http://45.61.188.184/.bu/fbot.mipsel
 http://37.0.11.132/r&&sh
 http://api.cloudflood.net/linux-arm
-http://download.c3pool.com/xmrig_setup/raw/master/setup_c3pool_miner.sh 
 http://45.145.185.229/bins/keksec.mips
 http://45.61.188.184/b.sh
 http://45.61.188.184/re/r.mpsl

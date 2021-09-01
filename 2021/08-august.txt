@@ -191,3 +191,14 @@ http://45.61.188.184/f.sh sh4
 http://45.61.188.184/re/r.mpsl
 http://107.175.69.166/0K4N3.sh
 http://159.65.220.73/beastmode/b3astmode.arm7
+http://37.0.11.132/b/b.arm5
+http://37.0.11.132/b/b.arm6
+http://37.0.11.132/b/b.arm7
+http://37.0.11.132/b/b.m68k
+http://37.0.11.132/b/b.mips
+http://37.0.11.132/b/b.mips64
+http://37.0.11.132/b/b.mpsl
+http://37.0.11.132/b/b.ppc
+http://37.0.11.132/b/b.sh4
+http://37.0.11.132/b/b.x86
+http://37.0.11.132/b/b.x86_64

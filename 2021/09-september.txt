@@ -64,8 +64,6 @@ http://45.15.170.102/bot.arm7
 http://45.15.170.102/bot.powerpc
 http://45.15.170.102/bot.x86
 http://45.15.170.102/bot.x86_64
-http://45.15.170.102/bot.mips
-http://45.15.170.102/bot.mipsel
 http://45.15.170.102/t/bot.mips64 
 http://45.15.170.102/t/bot.mips
 http://45.15.170.102/t/bot.mipsel
@@ -76,8 +74,6 @@ http://45.15.170.102/t/bot.arm7
 http://45.15.170.102/t/bot.powerpc
 http://45.15.170.102/t/bot.x86
 http://45.15.170.102/t/bot.x86_64
-http://45.15.170.102/t/bot.mips
-http://45.15.170.102/t/bot.mipsel
 http://204.44.93.145/armxs
 http://154.220.3.36:8080/wget
 http://103.209.103.16:26800/ff.sh
@@ -99,3 +95,10 @@ http://107.172.156.132/Please-Subscribe-To-My-YT-Channel-VegaSec/1isequal9.x86_6
 http://107.172.156.132/Please-Subscribe-To-My-YT-Channel-VegaSec/1isequal9.i686
 http://107.172.156.132/Please-Subscribe-To-My-YT-Channel-VegaSec/1isequal9.i486
 http://107.172.156.132/Please-Subscribe-To-My-YT-Channel-VegaSec/1isequal9.i586
+http://5.252.194.137/wget
+http://5.252.194.137/bwget
+http://5.252.194.137/bcurl
+http://5.252.194.137/curl
+http://5.206.227.228/wget
+http://5.206.227.228/curl
+http://45.95.168.143/beastmode/b3astmode.arm7
